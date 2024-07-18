@@ -2,6 +2,6 @@ public class Lesson1 {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello, Rostyslav.");
+        System.out.println("Hello, world.");
     }
 }
